@@ -18,7 +18,6 @@
 - Sticky sidebar
 
 
-
 ## Requirements
 In every project, i need to make necessary requirements for delivery, here are some of them:
 
